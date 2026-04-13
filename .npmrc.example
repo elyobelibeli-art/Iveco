@@ -1,0 +1,7 @@
+# Copy this file to .npmrc and set your internal registry to fix 403 errors in restricted networks.
+# Example:
+# registry=https://npm.company.internal/
+# always-auth=true
+# //npm.company.internal/:_authToken=${NPM_TOKEN}
+
+registry=https://registry.npmjs.org/
