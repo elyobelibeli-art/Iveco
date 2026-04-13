@@ -1,3 +1,4 @@
+import React from 'react';
 const actionButton =
   'rounded-lg px-3 py-2 text-sm font-semibold transition border border-slate-600 hover:border-slate-400';
 

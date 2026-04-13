@@ -1,3 +1,4 @@
+import React from 'react';
 import { useMemo, useState } from 'react';
 import ControlsPanel from '../components/ControlsPanel';
 import ReFrameModel from '../components/ReFrameModel';
